@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: test
-subtitle: ''
+title: 空街听雨
+subtitle: Nero Song's Life Blog 
 description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+keywords: 个人博客,技术,生活
+author: 西海岸总督
+language: zh-Hans
+timezone: Asia/Shanghai
+favicon: https://cdn.jsdelivr.net/gh/NeroSong/cdn-blog/my_favicon.ico
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -93,10 +94,33 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: volantis
+
+use_cdn: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
   repo: root@47.103.142.228:/root/bridge/1ts_fun_V1.git
+
+# 访问加速，打包
+all_minifier: true
+
+# 离线缓存资源，过滤CDN。 需要clean然后generate
+offline:
+  runtimeCaching:
+    - urlPattern: /*
+      handler: cacheFirst
+      options:
+        origin: cdn.jsdelivr.net
+    - urlPattern: /*
+      handler: cacheFirst
+      options:
+        origin: gravatar.loli.net
+
+# 懒加载图片
+lazyload:
+  enable: true 
+  onlypost: false
+  loadingImg: ./images/loading.gif
