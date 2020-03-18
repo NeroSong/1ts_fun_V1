@@ -9,6 +9,10 @@ meta:
   footer: []
 sidebar: []
 ---
+<p center large>About Me</p>
+<p center small>Nero Song or 西海岸总督</p>
+
+###  
 
 　　这是一块自留地。我是年轻的旅人，也是年轻的老地主。
 
@@ -22,7 +26,7 @@ sidebar: []
 
 
 　　
-> 更新于18-08-03
+> 重启于20-03-17
 > 对本站保留一切权利 =_=
-> Email: bravolavita#gmail.com
+> 工作邮箱: bravolavita#gmail.com
 
