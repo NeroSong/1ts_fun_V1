@@ -6,7 +6,7 @@
 
 CDN 加速使用 GitHub + jsdelivr 实现。
 
-部分优化参见[博客重构迁移记录](https://1ts.fun/2020/03/19/%E5%8D%9A%E5%AE%A2%E9%87%8D%E6%9E%84%E8%BF%81%E7%A7%BB%E8%AE%B0%E5%BD%95/)
+部分优化参见[博客重构迁移记录](https://1ts.fun/2020/03/19/%E5%8D%9A%E5%AE%A2%E9%87%8D%E6%9E%84%E8%BF%81%E7%A7%BB%E8%AE%B0%E5%BD%95/)。
 
 
 ## 对主题的自定义修改
