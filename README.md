@@ -35,3 +35,5 @@ CDN 加速使用 GitHub + jsdelivr 实现。
 ```
 
 底部footer间距减小
+
+修改了不同标题的颜色
