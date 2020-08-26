@@ -33,6 +33,8 @@ sidebar: []
 
 - 大三，合肥，会计学，独立开发
 - 敲代码，守望先锋，好吃的
+- Si vis pacem, para bellum
+- Carpe diem
 - 每个人都有权利追求自己想要的生活
 - Fan of work-life balance
 - 喜欢创造和实现，Engineering is magic
