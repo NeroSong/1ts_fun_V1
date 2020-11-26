@@ -13,6 +13,7 @@ sidebar: []
 {% btns rounded center grid4 %}
 <a href='https://www.coolapk.com/apk/com.nerosong.godknows'><img src='https://cdn.jsdelivr.net/gh/NeroSong/cdn-blog/gk_ic_launcher.png'>天意App</a>
 <a href='https://essay.1ts.fun'><img src='https://cdn.jsdelivr.net/gh/NeroSong/cdn-blog/xlw_ic_launch.png'>小论文神器</a>
+<a href='https://www.coolapk.com/apk/com.nerosong.Pin'><img src='https://cdn.jsdelivr.net/gh/NeroSong/cdn-blog/launch_pin.png'>Pin</a>
 </btns>
 {% endbtns %}
 
@@ -46,3 +47,17 @@ sidebar: []
 - 标准格式doc文档下载
 
 定制化程度更高的App正在开发中，网页版：👉[小论文神器](https://essay.1ts.fun)
+
+### Pin
+
+{% note quote green , 标签式轻量级记录工具，积累指标和碎碎念，自动生成统计图 %}
+
+想记下每次默默努力的脚步，想看到一段时间的状态起伏？记住关键的积累，看到自己的进步，这些本该很简单。抛弃繁琐，用最直白的方式来记录和统计。Pin的直译是大头针，意味着把每个值得记录的事情像大头针订卡片一样放在眼前，清晰明朗。
+
+- 记录数量无上限
+- 数据库可手动备份
+- 自动生成近期统计图表
+- 优雅动画，简单交互
+- 遵循《Android绿色应用公约》
+
+目前仅支持安卓，酷安主页：👉[Pin](https://www.coolapk.com/apk/com.nerosong.Pin)
