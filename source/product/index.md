@@ -10,10 +10,11 @@ meta:
 sidebar: []
 ---
 
-{% btns rounded center grid4 %}
+{% btns rounded center grid5 %}
 <a href='https://www.coolapk.com/apk/com.nerosong.godknows'><img src='https://cdn.jsdelivr.net/gh/NeroSong/cdn-blog/gk_ic_launcher.png'>天意App</a>
 <a href='https://essay.1ts.fun'><img src='https://cdn.jsdelivr.net/gh/NeroSong/cdn-blog/xlw_ic_launch.png'>小论文神器</a>
 <a href='https://www.coolapk.com/apk/com.nerosong.Pin'><img src='https://cdn.jsdelivr.net/gh/NeroSong/cdn-blog/launch_pin.png'>Pin</a>
+<a href='https://privacy.1ts.fun/'><img style="padding:8px 4px 5px 10px;" src='https://cdn.jsdelivr.net/gh/NeroSong/cdn-blog/launch_pp.png'>隐私政策生成器</a>
 </btns>
 {% endbtns %}
 
@@ -61,3 +62,19 @@ sidebar: []
 - 遵循《Android绿色应用公约》
 
 目前仅支持安卓，酷安主页：👉[Pin](https://www.coolapk.com/apk/com.nerosong.Pin)
+
+### 隐私政策生成器
+
+{% note quote green , 免费在线生成，10秒部署使用 %}
+
+国内大多数 App 市场上架要求隐私政策网址，但是有些应用很简单并不需要制定，甚至于根本不收集任何个人信息......开发者需要把精力省下来用在产品上，而不是被这些一刀切的要求打扰。
+
+因此写了这个小工具，几下搞定，再也不会烦人了👌
+
+- 自适应移动&桌面端
+- 自动切换夜间主题
+- 选项生成，普遍适用
+- 免费 TXT，HTML 格式下载
+- 一建自动部署
+
+网页地址：👉[隐私政策生成器](https://privacy.1ts.fun/)
