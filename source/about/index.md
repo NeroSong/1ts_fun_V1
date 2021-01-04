@@ -11,7 +11,7 @@ sidebar: []
 ---
 {% p center large, About Me %}
 
-{% p center small, Nero Song or 西海岸总督 %}
+{% p center small, Nero Song / 西海岸总督 %}
 
 ###  
 
@@ -31,7 +31,6 @@ sidebar: []
 
 瞎感慨完了，随便写几条关于自己，想到啥写啥，排名不分先后。（随时更新）
 
-- 大四，合肥，会计学，独立开发
 - 敲代码，守望先锋，好吃的
 - Si vis pacem, para bellum
 - Carpe diem
@@ -40,16 +39,13 @@ sidebar: []
 - 喜欢创造和实现，Engineering is magic
 - 瑞·达利欧的《原则》影响很大
 - 希望自己的产品能让更多人的生活变得美好
-- 目前个人项目上线了两个，用户量已经突破 3w 啦
 - 站着赚钱，目标财务自由
 - 只做专业的外包，“就差一个程序员”勿扰 😑
 - 欣赏 Google, Apple 等大厂，但不信仰
 - 主要写各类App及Web App，常用框架：Vue，Flutter
 - 曾经想要当个作家
-- 基本确定以后在成都
-- 对自己爱的人非常双标
 
-实现心愿是很美好的事情，希望别人也能幸福。
+或许是不知梦的缘故，流离之人追逐幻影。
 
 ### 主页顶图
 
