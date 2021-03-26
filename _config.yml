@@ -100,9 +100,10 @@ use_cdn: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: 'git'
-  repo: root@47.103.142.228:/root/bridge/1ts_fun_V1.git
+# 目前改为腾讯CloudBase的云托管，不再用服务器部署
+# deploy:
+#   type: 'git'
+#   repo: root@47.103.142.228:/root/bridge/1ts_fun_V1.git
 
 # 访问加速，打包
 all_minifier: true
